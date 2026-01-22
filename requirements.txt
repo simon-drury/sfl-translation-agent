@@ -1,0 +1,22 @@
+# Core dependencies
+transformers>=4.30.0
+torch>=2.0.0
+sentencepiece>=0.1.99
+sacremoses>=0.0.53
+
+# NLP and linguistic analysis
+spacy>=3.5.0
+nltk>=3.8
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# API and web
+requests>=2.31.0
+fastapi>=0.100.0
+uvicorn>=0.23.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
